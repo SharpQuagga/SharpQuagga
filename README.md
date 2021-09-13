@@ -4,6 +4,7 @@ I am a fullstack software engineer from India
 - 🔭 Working on multiple frontend and backend project using React and Ruby on rails
 - 🌱 Learning system design
 - 🌱 Learning human psychology
+- ⚡ Fun fact: Theres a mini Chandler inside me
 
 <br>
 
