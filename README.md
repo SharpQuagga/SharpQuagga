@@ -1,9 +1,10 @@
-### Hi there 👋
 
 ### Hello World 👋
 I am a fullstack software engineer from India
 - 🔭 Working on multiple frontend and backend project using React and Ruby on rails
-- 🌱 Learning design patterns in depth
+- 🌱 Learning system design
+- 🌱 Learning human psychology
+
 <br>
 ## Connect with me
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:darsbiritten@gmail.com)
